@@ -5,7 +5,6 @@ This is my personal Github profile. Most of my work is done at [wycomco](https:/
 Other profiles on the web:
 
 - Twitter: https://twitter.com/metzga
-- XING: https://www.xing.com/profile/Matthias_Choules/
 - LinkedIn: https://www.linkedin.com/in/matthiaschoules/
 - Instagram: https://instagram.com/metzga030
 - as ``@choules`` at the [MacAdmins Slack](https://www.macadmins.org)
